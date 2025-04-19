@@ -40,7 +40,7 @@ Identificar padrões de comportamento de compra em clientes de e-commerce atrav�
 | MeanShift | 0.45 | 0.93 | 3 |
 
 ### Visualização 3D dos Clusters (K-Means)
-![Clusters 3D](https://i.imgur.com/kmeans_3dview.png)
+![Clusters 3D](https://github.com/maxMitsuya/clustering_models/blob/main/plot_3d_kmeans.png)
 *Segmentação por R-F-V com K-Means*
 
 ## 📌 Segmentação de Clientes (K-Means)
@@ -78,10 +78,7 @@ Identificar padrões de comportamento de compra em clientes de e-commerce atrav�
 
 ## 📈 Visualizações Complementares
 
-### Importância das Variáveis
-![Feature Importance](https://i.imgur.com/feature_importance_rfv.png)
-*Contribuição de cada variável na formação dos clusters*
+### Interpretação de clusters
+![Cluster_Interpretation](https://github.com/maxMitsuya/clustering_models/blob/main/interpretacao_cluster.png)
+*Interpretação de cada clusters*
 
-### Comparativo de Métricas
-![Metric Comparison](https://i.imgur.com/metrics_comparison.png)
-*Desempenho dos algoritmos em diferentes indicadores*
