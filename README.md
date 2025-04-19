@@ -25,14 +25,9 @@ Identificar padrões de comportamento de compra em clientes de e-commerce atrav�
 - Exclusão de valores negativos/inconsistentes
 
 ## 🔍 Análise Exploratória
-
-### Distribuição Geográfica
-![Distribuição por País](https://i.imgur.com/geo_distribution.png)
-*Concentração de clientes por país*
-
-### Correlação RFV
-![Matriz de Correlação](https://i.imgur.com/rfv_correlation.png)
-*Relação entre as variáveis RFV*
+- Distruição Geográfica;
+- Identificação de dados nulos;
+- Identificação de Outliers.
 
 ## 🤖 Modelagem Comparativa
 
