@@ -41,6 +41,7 @@ Identificar padrões de comportamento de compra em clientes de e-commerce atrav�
 
 ### Visualização 3D dos Clusters (K-Means)
 ![Clusters 3D](https://github.com/maxMitsuya/clustering_models/blob/main/plot_3d_kmeans.png)
+
 *Segmentação por R-F-V com K-Means*
 
 ## 📌 Segmentação de Clientes (K-Means)
@@ -79,6 +80,7 @@ Identificar padrões de comportamento de compra em clientes de e-commerce atrav�
 ## 📈 Visualizações Complementares
 
 ### Interpretação de clusters
-![Cluster_Interpretation](https://github.com/maxMitsuya/clustering_models/blob/main/interpretacao_cluster.png)
+![Cluster_Interpretation](https://github.com/maxMitsuya/clustering_models/blob/main/intepretacao_clusters.png)
+
 *Interpretação de cada clusters*
 
